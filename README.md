@@ -1,16 +1,29 @@
-## Hi there 👋
+# ୨୧ hi, i'm christie
 
-<!--
-**cjtarre/cjtarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./cat.gif" width="250" alt="cute gif" />
+</p>
 
-Here are some ideas to get you started:
+welcome to my little corner of github ♡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+computer science student  
+making things, breaking things, fixing them eventually
+
+## currently
+
+☕ probably coding  
+🎧 listening to music  
+🌱 learning something new  
+💭 thinking about my next project
+
+## little things
+
+♡ i like clean interfaces  
+♡ i enjoy making things look nice  
+♡ most of my projects start with "what if..."
+
+> slowly building things i'm proud of
+
+⋆｡°✩
+
+more projects coming soon...
