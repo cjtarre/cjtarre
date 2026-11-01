@@ -1,7 +1,7 @@
 # ୨୧ hi, i'm christie
 
 <p align="center">
-  <img src="./assets/your-gif.gif" width="250" alt="cute gif" />
+  <img src="./assets/cat.gif" width="250" alt="cute gif" />
 </p>
 
 <p align="center">
