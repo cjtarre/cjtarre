@@ -1,13 +1,16 @@
 # ୨୧ hi, i'm christie
 
 <p align="center">
-  <img src="./assets/cat.gif" width="250" alt="cute gif" />
+  <img src="./assets/your-gif.gif" width="250" alt="cute gif" />
 </p>
 
-welcome to my little corner of github ♡
-
-computer science student  
-making things, breaking things, fixing them eventually
+<p align="center">
+  welcome to my little corner of github ♡
+  <br><br>
+  computer science student
+  <br>
+  making things, breaking things, fixing them eventually
+</p>
 
 ## currently
 
